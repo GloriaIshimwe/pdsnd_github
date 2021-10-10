@@ -43,16 +43,16 @@
            "</table>\n"
       ],
       "text/latex": [
-       "\\begin{tabular}{r|lllllllll}\n",
-       " X & Start.Time & End.Time & Trip.Duration & Start.Station & End.Station & User.Type & Gender & Birth.Year\\\\\n",
-       "\\hline\n",
-       "\t 5688089                   & 2017-06-11 14:55:05       & 2017-06-11 15:08:21       &  795                      & Suffolk St \\& Stanton St & W Broadway \\& Spring St  & Subscriber                & Male                      & 1998                     \\\\\n",
-       "\t 4096714                   & 2017-05-11 15:30:11       & 2017-05-11 15:41:43       &  692                      & Lexington Ave \\& E 63 St & 1 Ave \\& E 78 St         & Subscriber                & Male                      & 1981                     \\\\\n",
-       "\t 2173887                   & 2017-03-29 13:26:26       & 2017-03-29 13:48:31       & 1325                      & 1 Pl \\& Clinton St       & Henry St \\& Degraw St    & Subscriber                & Male                      & 1987                     \\\\\n",
-       "\t 3945638                   & 2017-05-08 19:47:18       & 2017-05-08 19:59:01       &  703                      & Barrow St \\& Hudson St   & W 20 St \\& 8 Ave         & Subscriber                & Female                    & 1986                     \\\\\n",
-       "\t 6208972                   & 2017-06-21 07:49:16       & 2017-06-21 07:54:46       &  329                      & 1 Ave \\& E 44 St         & E 53 St \\& 3 Ave         & Subscriber                & Male                      & 1992                     \\\\\n",
-       "\t 1285652                   & 2017-02-22 18:55:24       & 2017-02-22 19:12:03       &  998                      & State St \\& Smith St     & Bond St \\& Fulton St     & Subscriber                & Male                      & 1986                     \\\\\n",
-       "\\end{tabular}\n"
+           "\\begin{tabular}{r|lllllllll}\n",
+           " X & Start.Time & End.Time & Trip.Duration & Start.Station & End.Station & User.Type & Gender & Birth.Year\\\\\n",
+           "\\hline\n",
+           "\t 5688089                   & 2017-06-11 14:55:05       & 2017-06-11 15:08:21       &  795                      & Suffolk St \\& Stanton St & W Broadway \\& Spring St  & Subscriber                & Male                      & 1998                     \\\\\n",
+           "\t 4096714                   & 2017-05-11 15:30:11       & 2017-05-11 15:41:43       &  692                      & Lexington Ave \\& E 63 St & 1 Ave \\& E 78 St         & Subscriber                & Male                      & 1981                     \\\\\n",
+           "\t 2173887                   & 2017-03-29 13:26:26       & 2017-03-29 13:48:31       & 1325                      & 1 Pl \\& Clinton St       & Henry St \\& Degraw St    & Subscriber                & Male                      & 1987                     \\\\\n",
+           "\t 3945638                   & 2017-05-08 19:47:18       & 2017-05-08 19:59:01       &  703                      & Barrow St \\& Hudson St   & W 20 St \\& 8 Ave         & Subscriber                & Female                    & 1986                     \\\\\n",
+           "\t 6208972                   & 2017-06-21 07:49:16       & 2017-06-21 07:54:46       &  329                      & 1 Ave \\& E 44 St         & E 53 St \\& 3 Ave         & Subscriber                & Male                      & 1992                     \\\\\n",
+           "\t 1285652                   & 2017-02-22 18:55:24       & 2017-02-22 19:12:03       &  998                      & State St \\& Smith St     & Bond St \\& Fulton St     & Subscriber                & Male                      & 1986                     \\\\\n",
+           "\\end{tabular}\n"
       ],
       "text/markdown": [
        "\n",

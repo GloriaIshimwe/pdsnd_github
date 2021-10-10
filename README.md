@@ -13,4 +13,4 @@ Recently, I worked on a bikeshare project while learning about R programming and
 Main files used here is the bikeshare doc as python codes. Other files of csv are ignored.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+All thanks to Udacity for showing me direction to direction and helping me understand how git works. 
